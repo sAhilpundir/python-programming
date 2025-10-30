@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+print("Name:", name)
+print("Age:", age)
+print("\nThis program is written and executed by Sahil Singh (0231BCA035)")
