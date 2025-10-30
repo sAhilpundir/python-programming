@@ -1,7 +1,0 @@
-list = [1,2,3,4]
-it = iter(list)
-
-for item in it:
-    print(item)
-
-print("\nThis program is written and executed by Sahil Singh (0231BCA035)")

@@ -1,4 +1,0 @@
-x,y = input("Enter name and age: ").split()
-print(f"Name: {x} \t Age: {y}")
-
-print("\nThis program is written and executed by Sahil Singh (0231BCA035)")
